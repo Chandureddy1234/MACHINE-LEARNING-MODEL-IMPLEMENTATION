@@ -74,3 +74,4 @@ This project demonstrates how machine learning can be applied to solve real-worl
 
 📌 Output
 
+<img width="1845" height="809" alt="Image" src="https://github.com/user-attachments/assets/ea12e2cd-2f7e-42be-b852-59df7f5fde5d" />
